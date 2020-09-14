@@ -1,4 +1,4 @@
-# deepin-kwin-effects
+# Deepin win effects
 Configuraciones de efectos de ventanas para Deepin 20
 
 ## Procedimiento
