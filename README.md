@@ -3,15 +3,19 @@ Configuraciones de efectos de ventanas para Deepin 20
 
 ## Procedimiento
 
-'wget https://raw.githubusercontent.com/igatjens/deepin-kwin-effects/master/2020-09-14%20Deepin%201002/kwinrc'
+Ejecute los siguientes comandos.
 
-'mv  kwinrc ~/.config/kwinrc'
+`wget https://raw.githubusercontent.com/igatjens/deepin-kwin-effects/master/2020-09-14%20Deepin%201002/kwinrc`
+
+`mv  kwinrc ~/.config/kwinrc`
 
 Cerrar sesión para aplicar cambios.
 
 ## Cambiar la configuración
 
-'dedit ~/.config/kwinrc'
+Ejecute el siguiente comando.
+
+`dedit ~/.config/kwinrc`
 
 Modifique el código.
 * MagicLamp → Efecto de lámpara mágica
@@ -22,6 +26,8 @@ Cerrar sesión para aplicar cambios.
 
 ## Restablecer configuración por defecto
 
-'rm ~/.config/kwinrc'
+Ejecute el siguiente comando.
+
+`rm ~/.config/kwinrc`
 
 Cerrar sesión para aplicar cambios.
