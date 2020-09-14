@@ -10,7 +10,7 @@ Efectos
 
 Ejecute los siguientes comandos.
 
-`wget https://raw.githubusercontent.com/igatjens/deepin-kwin-effects/master/2020-09-14%20Deepin%201002/kwinrc`
+`wget https://raw.githubusercontent.com/igatjens/deepin-kwin-effects/master/2020-09-14%20Deepin%2020%201002/kwinrc`
 
 `mv  kwinrc ~/.config/kwinrc`
 
