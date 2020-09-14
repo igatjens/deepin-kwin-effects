@@ -13,6 +13,11 @@ Cerrar sesión para aplicar cambios.
 
 'dedit ~/.config/kwinrc'
 
+Modifique el código.
+* MagicLamp → Efecto de lámpara mágica
+* PresentWindows → Efecto vista multiventana (Win+A)
+* Wobbly → Efecto de ventana de gelatina
+
 Cerrar sesión para aplicar cambios.
 
 ## Restablecer configuración por defecto
