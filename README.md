@@ -1,6 +1,11 @@
 # Deepin win effects
 Configuraciones de efectos de ventanas para Deepin 20
 
+Efectos
+* Ventana de gelatina
+* Vista multiventana en cuadrícula (Win+A)
+* Efecto de lampara mágica
+
 ## Procedimiento
 
 Ejecute los siguientes comandos.
