@@ -14,7 +14,9 @@ Ejecute los siguientes comandos.
 
 `mv  kwinrc ~/.config/kwinrc`
 
-Cerrar sesión para aplicar cambios.
+`kwin --replace`
+
+Active el efecto de lampara mágica en Centro de control→Personalización→General→Efecto al minimizar ventana
 
 ## Cambiar la configuración
 
