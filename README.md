@@ -29,7 +29,11 @@ Modifique el código.
 * PresentWindows → Efecto vista multiventana (Win+A)
 * Wobbly → Efecto de ventana de gelatina
 
-Cerrar sesión para aplicar cambios.
+Aplique los cambios con el siguiente comando.
+
+`kwin --replace`
+
+También puede cerrar sesión para aplicar cambios.
 
 ## Restablecer configuración por defecto
 
