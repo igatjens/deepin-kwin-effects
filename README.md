@@ -25,7 +25,7 @@ Active el efecto de lampara mágica en Centro de control→Personalización→Ge
 
 Ejecute el siguiente comando.
 
-`dedit ~/.config/kwinrc`
+`deepin-editor ~/.config/kwinrc`
 
 Modifique el código.
 * MagicLamp → Efecto de lámpara mágica
